@@ -13,7 +13,7 @@ console.log(a);
  
 let person = {
     firstName : 'pk',
-    age : 20
+    age :  20
 };
 
 // array 
