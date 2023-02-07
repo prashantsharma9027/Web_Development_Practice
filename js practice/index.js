@@ -10,7 +10,7 @@ var b = 2;
 // we can only change the value of var not let and const keyword
 console.log(b);
 console.log(a);
-
+ 
 let person = {
     firstName : 'pk',
     age : 20
