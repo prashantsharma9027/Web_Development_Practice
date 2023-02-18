@@ -1,36 +1,37 @@
+/* 16px = 100 % = 1em */
 body{
     margin: 0;
     background-color: #E5D1FA;
     text-align: center;
+    font-size: 2em;
+    font-family: 'Merriweather', serif;
+
 }
 h1{
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+
     
 }
+h2{
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-size: 30px;
+}
 
-
+hr{
+    height:3px;
+    background-color : black;
+}
 
 .firstcontainer{
     position: relative;
     margin-top: 100px;
     
 }
-
-
-.middlecontainer{
-    height: 100px;
-    width: 100px;
-    background-color: black;
-}
-
-
-.bottomcontainer{
-    height: 100px;
-    width: 100px;
-    background-color: red;
-    
-}
-
-
 
 .html{
     position:absolute;
@@ -46,6 +47,6 @@ h1{
 .node{
 
     position:absolute;
-    top: 380px;
+    top: 600px;
     left: 100px;
 } 
