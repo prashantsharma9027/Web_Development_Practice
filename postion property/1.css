@@ -1,0 +1,35 @@
+
+body{
+    background-color: aqua;
+    margin-top: 0px ;
+    margin-left: 0px;
+}
+
+
+.abc{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    
+}
+
+
+.abc2{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+
+.abc3{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
